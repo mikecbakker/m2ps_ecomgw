@@ -1,0 +1,1 @@
+CALL .\build\install\m2ps_ecomgw\bin\q2.bat
