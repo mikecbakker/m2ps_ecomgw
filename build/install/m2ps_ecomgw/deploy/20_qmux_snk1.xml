@@ -1,6 +1,0 @@
-<?xml version="1.0" ?>
-
-<mux class="org.jpos.q2.iso.QMUX" logger="Q2" name="qmux-snk-core">
-	<in>qmux-snk-core-receive</in>
-	<out>qmux-snk-core-send</out>
-</mux>
